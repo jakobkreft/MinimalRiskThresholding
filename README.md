@@ -1,5 +1,5 @@
 
-## Minimal Risk Thresholding implementation for University Course 
+## Minimal Risk Thresholding Implementation
 
 This Python program applies the Minimal Risk Thresholding algorithm.
 
